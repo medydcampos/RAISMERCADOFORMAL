@@ -1,0 +1,59 @@
+nome_coluna,chave,valor
+faixa_etaria,1,10 a 14 anos
+faixa_etaria,2,15 a 17 anos
+faixa_etaria,3,18 a 24 anos
+faixa_etaria,4,25 a 29 anos
+faixa_etaria,5,30 a 39 anos
+faixa_etaria,6,40 a 49 anos
+faixa_etaria,7,50 a 64 anos
+faixa_etaria,8,65 anos ou mais
+faixa_etaria,99,Código não encontrado nos dicionários oficiais.
+faixa_remuneracao_media_sm,0,"Até 0,50 salários mínimos"
+faixa_remuneracao_media_sm,1,"0,51 a 1,00 salários mínimos"
+faixa_remuneracao_media_sm,10,"15,01 a 20,00 salários mínimos"
+faixa_remuneracao_media_sm,11,"Mais de 20,00 salários mínimos"
+faixa_remuneracao_media_sm,12,Código não encontrado nos dicionários oficiais.
+faixa_remuneracao_media_sm,2,"1,01 a 1,50 salários mínimos"
+faixa_remuneracao_media_sm,3,"1,51 a 2,00 salários mínimos"
+faixa_remuneracao_media_sm,4,"2,01 a 3,00 salários mínimos"
+faixa_remuneracao_media_sm,5,"3,01 a 4,00 salários mínimos"
+faixa_remuneracao_media_sm,6,"4,01 a 5,00 salários mínimos"
+faixa_remuneracao_media_sm,7,"5,01 a 7,00 salários mínimos"
+faixa_remuneracao_media_sm,8,"7,01 a 10,00 salários mínimos"
+faixa_remuneracao_media_sm,9,"10,01 a 15,00 salários mínimos"
+faixa_remuneracao_media_sm,98,Código não encontrado nos dicionários oficiais.
+faixa_remuneracao_media_sm,99,Código não encontrado nos dicionários oficiais.
+faixa_remuneracao_media_sm,99,Código não encontrado nos dicionários oficiais.
+sexo,-1,Ignorado
+sexo,1,Masculino
+sexo,2,Feminino
+sexo,9,Código não encontrado nos dicionários oficiais.
+tipo_vinculo,,NÃO CLASSIFICADO
+tipo_vinculo,-1,IGNORADO
+tipo_vinculo,1,CLT
+tipo_vinculo,10,CLT U/PJ IND
+tipo_vinculo,15,CLT U/PF IND
+tipo_vinculo,2,ESTATUTÁRIO
+tipo_vinculo,20,CLT R/PJ IND
+tipo_vinculo,25,CLT R/PF IND
+tipo_vinculo,3,TRABALHADOR AVULSO
+tipo_vinculo,30,ESTATUTARIO
+tipo_vinculo,31,ESTAT RGPS
+tipo_vinculo,35,ESTAT N/EFET
+tipo_vinculo,4,TRABALHADOR TEMP
+tipo_vinculo,40,AVULSO
+tipo_vinculo,5,OUTROS
+tipo_vinculo,50,TEMPORARIO/FIXO
+tipo_vinculo,50,TEMPORARIO
+tipo_vinculo,55,APREND CONTR
+tipo_vinculo,60,CLT U/PJ DET
+tipo_vinculo,65,CLT U/PF DET
+tipo_vinculo,70,CLT R/PJ DET
+tipo_vinculo,75,CLT R/PF DET
+tipo_vinculo,80,DIRETOR
+tipo_vinculo,90,CONT PRZ DET
+tipo_vinculo,95,CONT TMP DET
+tipo_vinculo,96,CONT LEI EST
+tipo_vinculo,97,CONT LEI MUN
+vinculo_ativo_3112,0,Não
+vinculo_ativo_3112,1,Sim
