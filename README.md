@@ -1,2 +1,2 @@
 # RAISMERCADOFORMAL
-Aplicação para o Ministério do Planejamento,
+Aplicação para o Ministério do Planejamento.
